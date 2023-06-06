@@ -2,6 +2,10 @@
 
 ## Setup Backend
 
+1. In terminal, run the following command to clone the repo:
+
+   `$ git clone https://github.com/zoom/meetingsdk-auth-endpoint-sample.git`
+
 1. In terminal, cd into the cloned repo:
 
    `$ cd meetingsdk-auth-endpoint-sample`
